@@ -17,6 +17,8 @@
 //       '### '
 //       '####'
 
-function steps(n) {}
+function steps(n) {
+    let n  
+}
 
 module.exports = steps;
