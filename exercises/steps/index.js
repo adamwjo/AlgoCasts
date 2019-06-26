@@ -1,24 +1,12 @@
-// --- Directions
-// Write a function that accepts a positive number N.
-// The function should console log a step shape
-// with N levels using the # character.  Make sure the
-// step has spaces on the right hand side!
-// --- Examples
-//   steps(2)
-//       '# '
-//       '##'
-//   steps(3)
-//       '#  '
-//       '## '
-//       '###'
-//   steps(4)
-//       '#   '
-//       '##  '
-//       '### '
-//       '####'
+
 
 function steps(n) {
-    let n  
+    //From 0 - n (iterate through rows)
+    //Create an empyt string 'stair'
+    //from 0 - n (iterate through columns)
+    //If the current column is equal to or less than the currennt tow
+    //Add a pound symbol
+    //Else, add a space
 }
 
 module.exports = steps;
